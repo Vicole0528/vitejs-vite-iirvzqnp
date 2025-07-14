@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+台北市 Youbike 即時資訊查詢
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+有查詢站點及收藏站點兩個功能
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+
+1.查詢：輸⼊關鍵字，按下 Enter 鍵或「搜尋」按鈕後，可列出符合名稱或是地址的站點。
+
+2.若未輸入任何關鍵字查詢，會列出所有站點。
+
+3.顯⽰內容為：站名、地址、地區、可租借車輛數、還車空位數、總停車格及收藏或取消收藏按鈕
+
+4.收藏站點功能: 列出收收藏清單內容，並可點擊取消收藏按鈕
